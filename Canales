@@ -1,0 +1,385 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/tvela1hd.png" group-title="ESPANA",LA 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3166
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-logo="http://media.c-x-c.media/picons/ES/tvela1.png" group-title="ESPANA",LA 1 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4375
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/la2hd.png" group-title="ESPANA",LA 2 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/65068
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2 ES" tvg-logo="http://media.c-x-c.media/picons/ES/tvela2.png" group-title="ESPANA",LA 2 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3167
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/antena3hd.png" group-title="ESPANA",ANTENA 3 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3176
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3 ES" tvg-logo="http://media.c-x-c.media/picons/ES/antena3.png" group-title="ESPANA",ANTENA 3 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4387
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/cuatrohd.png" group-title="ESPANA",CUATRO HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3168
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO ES" tvg-logo="http://media.c-x-c.media/picons/ES/cuatro.png" group-title="ESPANA",CUATRO ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4378
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/telecincohd.png" group-title="ESPANA",TELECINCO HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3169
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO ES" tvg-logo="http://media.c-x-c.media/picons/ES/telecinco.png" group-title="ESPANA",TELECINCO ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4371
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/lasextahd.png" group-title="ESPANA",LA SEXTA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3170
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA ES" tvg-logo="http://media.c-x-c.media/picons/ES/lasexta.png" group-title="ESPANA",LA SEXTA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4374
+#EXTINF:-1 tvg-id="13TV.es" tvg-name="TRECE TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/trece.png" group-title="ESPANA",TRECE TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46665
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ANTENA 3 SERIES HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/a3series.png" group-title="ESPANA",ANTENA 3 SERIES HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19892
+#EXTINF:-1 tvg-id="" tvg-name="TVE 24H" tvg-logo="http://media.c-x-c.media/picons/ES/TVE24h.png" group-title="ESPANA",TVE 24H
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/18581
+#EXTINF:-1 tvg-id="TVEIntAmerica.es" tvg-name="TVE INT." tvg-logo="http://media.c-x-c.media/picons/ES/tveinternacional.png" group-title="ESPANA",TVE INT.
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/18580
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/mega.png" group-title="ESPANA",MEGA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/5753
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA ES" tvg-logo="http://media.c-x-c.media/picons/ES/mega.png" group-title="ESPANA",MEGA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19935
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="NOVA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/nova.png" group-title="ESPANA",NOVA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3175
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY ES" tvg-logo="http://media.c-x-c.media/picons/ES/energy.png" group-title="ESPANA",ENERGY ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/18564
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="DIVINITY ES" tvg-logo="http://media.c-x-c.media/picons/ES/divinity.png" group-title="ESPANA",DIVINITY ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3226
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="NEOX HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/neox.png" group-title="ESPANA",NEOX HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3233
+#EXTINF:-1 tvg-id="FactoriaFiccion.es" tvg-name="FDF ES" tvg-logo="http://media.c-x-c.media/picons/ES/fdf.png" group-title="ESPANA",FDF ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3245
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="COMEDY CENTRAL HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/comedycentralhd.png" group-title="ESPANA",COMEDY CENTRAL HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46753
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="COMEDY CENTRAL ES" tvg-logo="http://media.c-x-c.media/picons/ES/comedycentral.png" group-title="ESPANA",COMEDY CENTRAL ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3204
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR+ LA RESISTENCIA ES" tvg-logo="http://media.c-x-c.media/picons/ES/resistencia.png" group-title="ESPANA",MOVISTAR+ LA RESISTENCIA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/321510
+#EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="PARAMOUNT CHANNEL ES" tvg-logo="http://media.c-x-c.media/picons/ES/paramountnetwork.png" group-title="ESPANA",PARAMOUNT CHANNEL ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3195
+#EXTINF:-1 tvg-id="" tvg-name="XTRM HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/xtrm.png" group-title="ESPANA",XTRM HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/55949
+#EXTINF:-1 tvg-id="DKISS.es" tvg-name="DKISS ES" tvg-logo="http://media.c-x-c.media/picons/ES/DKISS.png" group-title="ESPANA",DKISS ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/20040
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="SOMOS ES" tvg-logo="http://media.c-x-c.media/picons/ES/somos.png" group-title="ESPANA",SOMOS ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/27671
+#EXTINF:-1 tvg-id="Ten.es" tvg-name="TEN ES" tvg-logo="http://media.c-x-c.media/picons/ES/ten.png" group-title="ESPANA",TEN ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/27674
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="CANAL DARK ES" tvg-logo="http://media.c-x-c.media/picons/ES/dark.png" group-title="ESPANA",CANAL DARK ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/27673
+#EXTINF:-1 tvg-id="" tvg-name="FIBWI TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/fibwi.png" group-title="ESPANA",FIBWI TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/27672
+#EXTINF:-1 tvg-id="SolMusica.es" tvg-name="SOL MUSICA ES" tvg-logo="http://media.c-x-c.media/picons/ES/solmusica.png" group-title="ESPANA",SOL MUSICA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/20041
+#EXTINF:-1 tvg-id="MTV.es" tvg-name="MTV ESPANA ES" tvg-logo="http://media.c-x-c.media/picons/ES/mtv.png" group-title="ESPANA",MTV ESPANA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3225
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS ES" tvg-logo="http://media.c-x-c.media/picons/ES/tlnovelas.png" group-title="ESPANA",TELENOVELAS ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/8667
+#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="CANAL SUR ANDALUCIA ES" tvg-logo="http://media.c-x-c.media/picons/ES/canalsurandalucia.png" group-title="ESPANA",CANAL SUR ANDALUCIA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3182
+#EXTINF:-1 tvg-id="TeleMadrid.es" tvg-name="TELE MADRID HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/telemadrid.png" group-title="ESPANA",TELE MADRID HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19890
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV GALICIA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/tvgalicia.png" group-title="ESPANA",TV GALICIA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/114811
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV GALICIA ES" tvg-logo="http://media.c-x-c.media/picons/ES/tvgalicia.png" group-title="ESPANA",TV GALICIA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3171
+#EXTINF:-1 tvg-id="" tvg-name="iB3 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ib3.png" group-title="ESPANA",iB3 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/41458
+#EXTINF:-1 tvg-id="" tvg-name="ONDA CADIZ ES" tvg-logo="http://media.c-x-c.media/picons/ES/ondacadiz.png" group-title="ESPANA",ONDA CADIZ ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19891
+#EXTINF:-1 tvg-id="" tvg-name="TV3 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/tv3HD.png" group-title="ESPANA",TV3 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/18563
+#EXTINF:-1 tvg-id="Telesur.es" tvg-name="TELESUR HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/telesur.png" group-title="ESPANA",TELESUR HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/150584
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CARACOL HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/caracol.png" group-title="ESPANA",CARACOL HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19939
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CARACOL TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/caracol.png" group-title="ESPANA",CARACOL TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9886
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/rcnhd.png" group-title="ESPANA",RCN HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/18597
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN ES" tvg-logo="http://media.c-x-c.media/picons/ES/rcn_hd2.png" group-title="ESPANA",RCN ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19934
+#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA ES" tvg-logo="http://media.c-x-c.media/picons/ES/teleantioqua.png" group-title="ESPANA",TELEANTIOQUIA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/108513
+#EXTINF:-1 tvg-id="" tvg-name="TELE MEDELLIN ES" tvg-logo="http://media.c-x-c.media/picons/ES/telemedellin.png" group-title="ESPANA",TELE MEDELLIN ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/108514
+#EXTINF:-1 tvg-id="" tvg-name="CUBAVISION ES" tvg-logo="http://media.c-x-c.media/picons/ES/cubavisioninternacional.png" group-title="ESPANA",CUBAVISION ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/38548
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA ES" tvg-logo="http://media.c-x-c.media/picons/ES/ecuavisa.png" group-title="ESPANA",ECUAVISA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19938
+#EXTINF:-1 tvg-id="" tvg-name="ETC TV ECUADOR ES" tvg-logo="http://media.c-x-c.media/picons/ES/etc.png" group-title="ESPANA",ETC TV ECUADOR ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19937
+#EXTINF:-1 tvg-id="CanalEstrellas.es" tvg-name="CANAL ESTRELLAS ES" tvg-logo="http://media.c-x-c.media/picons/ES/lasestrellas.png" group-title="ESPANA",CANAL ESTRELLAS ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3174
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/tyc.png" group-title="ESPANA",TYC SPORT HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19933
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LATINO ES" tvg-logo="http://media.c-x-c.media/picons/ES/telemundo.png" group-title="ESPANA",TELEMUNDO LATINO ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19894
+#EXTINF:-1 tvg-id="" tvg-name="EVISION ES" tvg-logo="http://media.c-x-c.media/picons/ES/venevision.png" group-title="ESPANA",EVISION ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19936
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 1 LATINO" tvg-logo="http://media.c-x-c.media/picons/ES/foxsports1.png" group-title="ESPANA",FOX SPORT 1 LATINO
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9884
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 LATINO" tvg-logo="http://media.c-x-c.media/picons/ES/foxsports2.png" group-title="ESPANA",FOX SPORT 2 LATINO
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9883
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 LATINO" tvg-logo="http://media.c-x-c.media/picons/ES/foxsports3.png" group-title="ESPANA",FOX SPORT 3 LATINO
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9882
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE ES" tvg-logo="http://media.c-x-c.media/picons/ES/multideporte.png" group-title="ESPANA",MULTIDEPORTE ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/96178
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="MOVISTAR+ LA LIGA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/mliga.png" group-title="ESPANA",MOVISTAR+ LA LIGA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13542
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="MOVISTAR+ LA LIGA ES" tvg-logo="http://media.c-x-c.media/picons/ES/mliga.png" group-title="ESPANA",MOVISTAR+ LA LIGA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13541
+#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="MOVISTAR+ LALIGA 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/mlig1.png" group-title="ESPANA",MOVISTAR+ LALIGA 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/10265
+#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="MOVISTAR+ LALIGA 1 ES" tvg-logo="http://media.c-x-c.media/picons/ES/mlig1.png" group-title="ESPANA",MOVISTAR+ LALIGA 1 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/10264
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="MOVISTAR+ LALIGA 2 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/mlig2.png" group-title="ESPANA",MOVISTAR+ LALIGA 2 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/10263
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="MOVISTAR+ LALIGA 2 ES" tvg-logo="http://media.c-x-c.media/picons/ES/mlig2.png" group-title="ESPANA",MOVISTAR+ LALIGA 2 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/10262
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="MOVISTAR+ LALIGA 3 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/mlig3.png" group-title="ESPANA",MOVISTAR+ LALIGA 3 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/52606
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="MOVISTAR+ LALIGA 3 ES" tvg-logo="http://media.c-x-c.media/picons/ES/mlig3.png" group-title="ESPANA",MOVISTAR+ LALIGA 3 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/96181
+#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="MOVISTAR+ LALIGA 4 ES" tvg-logo="http://media.c-x-c.media/picons/ES/mlig4.png" group-title="ESPANA",MOVISTAR+ LALIGA 4 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/96180
+#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="MOVISTAR+ LALIGA 5 ES" tvg-logo="http://media.c-x-c.media/picons/ES/mlig5.png" group-title="ESPANA",MOVISTAR+ LALIGA 5 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/96179
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA SMARTBANK TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/ligasmartbank.png" group-title="ESPANA",LALIGA SMARTBANK TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343473
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA SMARTBANK TV 1 ES" tvg-logo="http://media.c-x-c.media/picons/ES/ligasmartbank.png" group-title="ESPANA",LALIGA SMARTBANK TV 1 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343472
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M. L.CAMPEONES HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones.png" group-title="ESPANA",M. L.CAMPEONES HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13534
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M. L.CAMPEONES ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones.png" group-title="ESPANA",M. L.CAMPEONES ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/8661
+#EXTINF:-1 tvg-id="beINMAX1.es" tvg-name="M. L.CAMPEONES 1 ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones1.png" group-title="ESPANA",M. L.CAMPEONES 1 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13540
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="M. L.CAMPEONES 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones1.png" group-title="ESPANA",M. L.CAMPEONES 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13539
+#EXTINF:-1 tvg-id="beINMAX2.es" tvg-name="M. L.CAMPEONES 2 ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones2.png" group-title="ESPANA",M. L.CAMPEONES 2 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13538
+#EXTINF:-1 tvg-id="beINMAX2.es" tvg-name="M. L.CAMPEONES 2 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones2.png" group-title="ESPANA",M. L.CAMPEONES 2 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13537
+#EXTINF:-1 tvg-id="beINMAX3.es" tvg-name="M. L.CAMPEONES 3 ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones3.png" group-title="ESPANA",M. L.CAMPEONES 3 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13536
+#EXTINF:-1 tvg-id="beINMAX4.es" tvg-name="M. L.CAMPEONES 4 ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones4.png" group-title="ESPANA",M. L.CAMPEONES 4 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13535
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="GOL HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/gol.png" group-title="ESPANA",GOL HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/20039
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="GOL TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/gol.png" group-title="ESPANA",GOL TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/7258
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="TELEDEPORTE HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/Tdp_HD.png" group-title="ESPANA",TELEDEPORTE HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9879
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="TELEDEPORTE ES" tvg-logo="http://media.c-x-c.media/picons/ES/teledeporte.png" group-title="ESPANA",TELEDEPORTE ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3217
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="ESPANA",DAZN 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/66495
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD ES" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="ESPANA",DAZN 2 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/215555
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD ES" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="ESPANA",DAZN 3 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/215558
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD ES" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="ESPANA",DAZN 4 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/215557
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD ES" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="ESPANA",DAZN F1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/215556
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="ESPANA",DAZN LIGA 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/215559
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 2 HD ES" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="ESPANA",DAZN LIGA 2 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343408
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="MOVISTAR+ #VAMOS HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/vamos.png" group-title="ESPANA",MOVISTAR+ #VAMOS HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46685
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="MOVISTAR+ #VAMOS ES" tvg-logo="http://media.c-x-c.media/picons/ES/vamos.png" group-title="ESPANA",MOVISTAR+ #VAMOS ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46684
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="MOVISTAR+ DEPORTES HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes.png" group-title="ESPANA",MOVISTAR+ DEPORTES HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3212
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="MOVISTAR+ DEPORTES ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes.png" group-title="ESPANA",MOVISTAR+ DEPORTES ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/8662
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="MOVISTAR+ DEPORTES 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes1.png" group-title="ESPANA",MOVISTAR+ DEPORTES 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3213
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="MOVISTAR+ DEPORTES 1 ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes1.png" group-title="ESPANA",MOVISTAR+ DEPORTES 1 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4383
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ DEPORTES 2 ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes2.png" group-title="ESPANA",MOVISTAR+ DEPORTES 2 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/96183
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ DEPORTES 3 ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes3.png" group-title="ESPANA",MOVISTAR+ DEPORTES 3 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/96182
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="MOVISTAR+ FORMULA 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarformula1.png" group-title="ESPANA",MOVISTAR+ FORMULA 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3222
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="MOVISTAR+ FORMULA 1 ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarformula1.png" group-title="ESPANA",MOVISTAR+ FORMULA 1 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46752
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="MOVISTAR+ GOLF ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistargolf.png" group-title="ESPANA",MOVISTAR+ GOLF ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3216
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/toros.png" group-title="ESPANA",TOROS TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9639
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="REAL MADRID TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/realmadridtv.png" group-title="ESPANA",REAL MADRID TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3219
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="BARCA TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/barcatv.png" group-title="ESPANA",BARCA TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/7259
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 3 CAT ES" tvg-logo="http://media.c-x-c.media/picons/ES/sport3cat.png" group-title="ESPANA",SPORT 3 CAT ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9880
+#EXTINF:-1 tvg-id="" tvg-name="SEVILLA FC TV" tvg-logo="http://media.c-x-c.media/picons/ES/sevillafctv.png" group-title="ESPANA",SEVILLA FC TV
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343474
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="EUROSPORT 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/eurosport1hd.png" group-title="ESPANA",EUROSPORT 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9530
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="EUROSPORT 1 ES" tvg-logo="http://media.c-x-c.media/picons/ES/eurosport1.png" group-title="ESPANA",EUROSPORT 1 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9531
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="EUROSPORT 2 ES" tvg-logo="http://media.c-x-c.media/picons/ES/eurosport2.png" group-title="ESPANA",EUROSPORT 2 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9532
+#EXTINF:-1 tvg-id="Movistar.es" tvg-name="MOVISTAR+ #0 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/0M+.png" group-title="ESPANA",MOVISTAR+ #0 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46677
+#EXTINF:-1 tvg-id="Movistar.es" tvg-name="MOVISTAR+ #0 ES" tvg-logo="http://media.c-x-c.media/picons/ES/0M+.png" group-title="ESPANA",MOVISTAR+ #0 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3183
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="MOVISTAR+ ESTRENOS HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="ESPANA",MOVISTAR+ ESTRENOS HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3187
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="MOVISTAR+ ESTRENOS ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="ESPANA",MOVISTAR+ ESTRENOS ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4379
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="MOVISTAR+ ESTRENOS 2 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="ESPANA",MOVISTAR+ ESTRENOS 2 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3184
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="MOVISTAR+ ACCION HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistaraccion.png" group-title="ESPANA",MOVISTAR+ ACCION HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3192
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="MOVISTAR+ ACCION ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistaraccion.png" group-title="ESPANA",MOVISTAR+ ACCION ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4385
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="MOVISTAR+ COMEDIA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcomedia.png" group-title="ESPANA",MOVISTAR+ COMEDIA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/8655
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="MOVISTAR+ COMEDIA ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcomedia.png" group-title="ESPANA",MOVISTAR+ COMEDIA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3191
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="MOVISTAR+ DRAMA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistardrama.png" group-title="ESPANA",MOVISTAR+ DRAMA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3189
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="MOVISTAR+ DRAMA ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistardrama.png" group-title="ESPANA",MOVISTAR+ DRAMA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4384
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="MOVISTAR+ SERIES HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarseries.png" group-title="ESPANA",MOVISTAR+ SERIES HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3194
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="MOVISTAR+ SERIES ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarseries.png" group-title="ESPANA",MOVISTAR+ SERIES ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46682
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="MOVISTAR+ SERIESMANIA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarseriesmania.png" group-title="ESPANA",MOVISTAR+ SERIESMANIA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3186
+#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" tvg-name="MOVISTAR+ SERIESMANIA ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarseriesmania.png" group-title="ESPANA",MOVISTAR+ SERIESMANIA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46683
+#EXTINF:-1 tvg-id="DCineEspanol.es" tvg-name="MOVISTAR+ CINE Ñ ES" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcineespagnol.png" group-title="ESPANA",MOVISTAR+ CINE Ñ ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3203
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/axnhd.png" group-title="ESPANA",AXN HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46754
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN ES" tvg-logo="http://media.c-x-c.media/picons/ES/axn.png" group-title="ESPANA",AXN ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3198
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN WHITE HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/axnwhitehd.png" group-title="ESPANA",AXN WHITE HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3196
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN WHITE ES" tvg-logo="http://media.c-x-c.media/picons/ES/axnwhite.png" group-title="ESPANA",AXN WHITE ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4386
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="FOX HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/foxhd.png" group-title="ESPANA",FOX HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3200
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="FOX ES" tvg-logo="http://media.c-x-c.media/picons/ES/fox.png" group-title="ESPANA",FOX ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4376
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/amchd.png" group-title="ESPANA",AMC HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19888
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC ES" tvg-logo="http://media.c-x-c.media/picons/ES/amc.png" group-title="ESPANA",AMC ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19889
+#EXTINF:-1 tvg-id="AandE.es" tvg-name="AMC BREAK HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/amchd.png" group-title="ESPANA",AMC BREAK HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46668
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="AMC BREAK ES" tvg-logo="http://media.c-x-c.media/picons/ES/amc.png" group-title="ESPANA",AMC BREAK ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3242
+#EXTINF:-1 tvg-id="CrimenInvestigacion.es" tvg-name="AMC CRIME ES" tvg-logo="http://media.c-x-c.media/picons/ES/amc.png" group-title="ESPANA",AMC CRIME ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/9885
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="CALLE 13 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/calle13hd.png" group-title="ESPANA",CALLE 13 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/8656
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="CALLE 13 ES" tvg-logo="http://media.c-x-c.media/picons/ES/calle13.png" group-title="ESPANA",CALLE 13 ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3173
+#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="COSMO ES" tvg-logo="http://media.c-x-c.media/picons/ES/cosmo.png" group-title="ESPANA",COSMO ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3180
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/tcmhd.png" group-title="ESPANA",TCM HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46688
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM ES" tvg-logo="http://media.c-x-c.media/picons/ES/tcm.png" group-title="ESPANA",TCM ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3243
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="TNT HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/tnthd.png" group-title="ESPANA",TNT HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46687
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="TNT ES" tvg-logo="http://media.c-x-c.media/picons/ES/tnt.png" group-title="ESPANA",TNT ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3172
+#EXTINF:-1 tvg-id="SyFy.es" tvg-name="SYFY HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/syfyhd.png" group-title="ESPANA",SYFY HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3205
+#EXTINF:-1 tvg-id="SyFy.es" tvg-name="SYFY ES" tvg-logo="http://media.c-x-c.media/picons/ES/syfy.png" group-title="ESPANA",SYFY ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46676
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="HOLLYWOOD HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/canalhollywoodhd.png" group-title="ESPANA",HOLLYWOOD HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46675
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="HOLLYWOOD ES" tvg-logo="http://media.c-x-c.media/picons/ES/hollywood.png" group-title="ESPANA",HOLLYWOOD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3202
+#EXTINF:-1 tvg-id="VOOSportWorld1.be" tvg-name="ORANGE SERIES HD  ES" tvg-logo="http://media.c-x-c.media/picons/ES/orange.png" group-title="ESPANA",ORANGE SERIES HD  ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46666
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/sundancetvhd.png" group-title="ESPANA",SUNDANCE HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46667
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="NAT. GEOGRAPHIC HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/nationalgeographichd.png" group-title="ESPANA",NAT. GEOGRAPHIC HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46749
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="NATI GEOGRAPHIC ES" tvg-logo="http://media.c-x-c.media/picons/ES/NAT_Geo_SD_.png" group-title="ESPANA",NATI GEOGRAPHIC ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3235
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="NAT GEO WILD HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/natgeowildhd.png" group-title="ESPANA",NAT GEO WILD HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46750
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="NAT GEO WILD ES" tvg-logo="http://media.c-x-c.media/picons/ES/natgeowild.png" group-title="ESPANA",NAT GEO WILD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4372
+#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="DISCOVERY CHANNEL ES" tvg-logo="http://media.c-x-c.media/picons/ES/discoverychannel.png" group-title="ESPANA",DISCOVERY CHANNEL ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/5851
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="CANAL ODISEA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/OdiseaHD.png" group-title="ESPANA",CANAL ODISEA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46669
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ODISEA ES" tvg-logo="http://media.c-x-c.media/picons/ES/odisea.png" group-title="ESPANA",ODISEA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/5852
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="HISTORIA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/historia.png" group-title="ESPANA",HISTORIA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46672
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="HISTORIA ES" tvg-logo="http://media.c-x-c.media/picons/ES/historia.png" group-title="ESPANA",HISTORIA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3238
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="CAZA Y PESCA HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/cazaypesca.png" group-title="ESPANA",CAZA Y PESCA HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46751
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="CAZA Y PESCA ES" tvg-logo="http://media.c-x-c.media/picons/ES/cazaypesca.png" group-title="ESPANA",CAZA Y PESCA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3223
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD TV HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/bemad.png" group-title="ESPANA",BE MAD TV HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19884
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD ES" tvg-logo="http://media.c-x-c.media/picons/ES/bemad.png" group-title="ESPANA",BE MAD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46673
+#EXTINF:-1 tvg-id="DiscoveryMax.es" tvg-name="DMAX ES" tvg-logo="http://media.c-x-c.media/picons/ES/dmax.png" group-title="ESPANA",DMAX ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/19928
+#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="GARAGE HD  ES" tvg-logo="http://media.c-x-c.media/picons/ES/garagetv.png" group-title="ESPANA",GARAGE HD  ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46671
+#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="GARAGE  ES" tvg-logo="http://media.c-x-c.media/picons/ES/garagetv.png" group-title="ESPANA",GARAGE  ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/46670
+#EXTINF:-1 tvg-id="ISBTV.es" tvg-name="IBERALIA TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/iberalia.png" group-title="ESPANA",IBERALIA TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13252
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="CANAL DECASA ES" tvg-logo="http://media.c-x-c.media/picons/ES/decasa.png" group-title="ESPANA",CANAL DECASA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/13251
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="CANAL COCINA ES" tvg-logo="http://media.c-x-c.media/picons/ES/canalcocina.png" group-title="ESPANA",CANAL COCINA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3239
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="CLAN TVE ES" tvg-logo="http://media.c-x-c.media/picons/ES/tveclan.png" group-title="ESPANA",CLAN TVE ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3181
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="DISNEY CHANNEL ES" tvg-logo="http://media.c-x-c.media/picons/ES/disneychannel.png" group-title="ESPANA",DISNEY CHANNEL ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3229
+#EXTINF:-1 tvg-id="DisneyXD.es" tvg-name="DISNEY CHANNEL HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/disneychannel.png" group-title="ESPANA",DISNEY CHANNEL HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3230
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="DISNEY JR ES" tvg-logo="http://media.c-x-c.media/picons/ES/disneyjunior.png" group-title="ESPANA",DISNEY JR ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/4377
+#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="CANAL PANDA ES" tvg-logo="http://media.c-x-c.media/picons/ES/pandacanal.png" group-title="ESPANA",CANAL PANDA ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3228
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="NICKELODEON HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/nickelodeonhd.png" group-title="ESPANA",NICKELODEON HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/8664
+#EXTINF:-1 tvg-id="NickJr.es" tvg-name="NICK JR ES" tvg-logo="http://media.c-x-c.media/picons/ES/nickjr.png" group-title="ESPANA",NICK JR ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/8665
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="BOING ES" tvg-logo="http://media.c-x-c.media/picons/ES/boing.png" group-title="ESPANA",BOING ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3234
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="BABY TV ES" tvg-logo="http://media.c-x-c.media/picons/ES/babytv.png" group-title="ESPANA",BABY TV ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/3232
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 1 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 1 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343487
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 2 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 2 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343486
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 3 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 3 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343485
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 4 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 4 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343484
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 5 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 5 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343483
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 6 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 6 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343482
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 7 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 7 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343481
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 8 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 8 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343480
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 9 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 9 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343479
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 10 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 10 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343478
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 11 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 11 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343477
+#EXTINF:-1 tvg-id="" tvg-name="ALQELIER 12 HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/ALQUILER.png" group-title="ESPANA",ALQELIER 12 HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343476
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES HD ES" tvg-logo="http://media.c-x-c.media/picons/ES/netflix.png" group-title="ESPANA",NETFLIX MOVIES HD ES
+http://zio.t-v.io:80/UXK0DRB0KC/D5rF7s7Uln/343475
